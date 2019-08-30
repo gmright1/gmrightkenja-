@@ -45,6 +45,11 @@ Leaning more about how can you start building your way up
 https://github.com/kenjabito/gmright.organizations-gmright.217706-/commit/b423a305c7ccfa7773171504eb05ac3f07d19ea3
 
 
+
+For more information  please contact us :
+My.gmright.org
+
+Please help us to contribute in this repo 
 MIT License
  
 Copyright (c) 2019 gmright
