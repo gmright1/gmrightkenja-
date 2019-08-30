@@ -36,6 +36,13 @@ X code for organization
 
 
 Try to learning why gmright https://github.com/gmright1/gmrightkenja-/blob/master/about/About.md
+ 
+
+Keep all your files in one place that will be useful for the future issue  for all does who are 
+Working on developing something great  here is your opportunity to organize your stuff 
+Including some of the organization that haven't have this point yet this here where you can able to 
+Leaning more about how can you start building your way up 
+https://github.com/kenjabito/gmright.organizations-gmright.217706-/commit/b423a305c7ccfa7773171504eb05ac3f07d19ea3
 
 
 MIT License
