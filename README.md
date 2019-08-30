@@ -35,6 +35,9 @@ X write simple service
 X code for organization 
 
 
+Try to learning why gmright https://github.com/gmright1/gmrightkenja-/blob/master/about/About.md
+
+
 MIT License
  
 Copyright (c) 2019 gmright
