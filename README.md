@@ -47,7 +47,7 @@ https://github.com/kenjabito/gmright.organizations-gmright.217706-/commit/b423a3
 
 
 For more information  please contact us :
-My.gmright.org
+https://gmright.gmright.software/?m=1&zx=961f7a041307885d
 
 Please help us to contribute in this repo 
 
