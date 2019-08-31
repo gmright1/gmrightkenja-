@@ -57,6 +57,13 @@ About Graphing let put some of the HLB into line  If the content
 
 
 
+Click here:
+https://www.google.com/amp/s/gmrightdotcom.wordpress.com/2019/01/07/gmright/amp/
+
+Only if you are an developer and you want to create your own business or website start by the link above 
+This place will be able to help you with duration with what you want to do when you decide to open
+Your owne website without being paying an mouth. 
+
 
 Please help us to contribute in this repo 
 
