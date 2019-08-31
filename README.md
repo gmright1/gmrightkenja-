@@ -48,6 +48,16 @@ Leaning more about how can you start building your way here https://github.com/k
 For more information  please contact us :
 https://gmright.gmright.software/?m=1&zx=961f7a041307885d
 
+
+![20190831_055553](https://user-images.githubusercontent.com/54698352/64063018-29f53b80-cbb4-11e9-9d98-bd47a9b57829.jpg)
+It's dog hanging dog it doesn't matter how many team you have but for some how you need this team to help you with your journey 
+The is some of the tools that will be useful to all your work special the one you are working on right now let work here to reach there
+About Graphing let put some of the HLB into line  If the content 
+
+
+
+
+
 Please help us to contribute in this repo 
 
 
