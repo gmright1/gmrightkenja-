@@ -1,0 +1,43 @@
+
+let getOrderBook = async () => { try { let book = await bitopro.getOrderBook('btc_twd') console.log(book) } catch (e) { console.log(e) } } getOrderBook()
+
+OutputgetTickers
+
+let getTickers = async () => { try { // all tickers let tickers = await bitopro.getTickers() console.log(tickers) // single ticker let ticker = await bitopro.getTickers('btc_twd') console.log(ticker) } catch (e) { console.log(e) } } getTickers()
+
+OutputgetTrades
+
+let getTrades = async () => { try { let trades = await bitopro.getTrades('btc_twd') console.log(trades) } catch (e) { console.log(e) } } getTrades()
+
+OutputAuthenticated REST EndpointsgetAccountBalances
+
+let getAccountBalances = async () => { try { let balances = await bitopro.getAccountBalances() console.log(balances) } catch (e) { console.log(e) } } getAccountBalances()
+
+OutputgetOrderHistory
+
+let getOrderHistory = async () => { try { let history = await bitopro.getOrderHistory() console.log(history) } catch (e) { console.log(e) } } getOrderHistory()
+
+OutputgetOrders
+
+let getOrders = async () => { try { // only fetch active orders let orders = await bitopro.getOrders('bito_twd') console.log(orders) // include history orders orders = await bitopro.getOrders('bito_twd', false) console.log(orders) // with page parameter orders = await bitopro.getOrders('bito_twd', false, 1) console.log(orders) } catch (e) { console.log(e) } } getOrders()
+
+OutputcreateOrder
+
+let createOrder = async () => { try { let order = { pair: 'btc_twd', action: 'buy', amount: '250', price: '0.000075', // no need for market orders timestamp: Date.now(), type: 'limit' // 'market' for market orders } let result = await bitopro.createOrder(order) console.log(result) } catch (e) { console.log(e) } } createOrder()
+
+OutputcancelOrder
+
+let cancelOrder = async () => { try { let orderID = 123456 let result = await bitopro.cancelOrder('btc_twd', orderID) console.log(result) } catch (e) { console.log(e) } } cancelOrder()
+
+OutputgetOrder
+
+let getOrder = async () => { try { let orderID = 123 let result = await bitopro.getOrder('btc_twd', orderID) console.log(result) } catch (e) { console.log(e) } } getOrder()
+
+OutputContributing
+
+Bug reports and pull requests are welcome on GitHub at https://github.com/bitoex/bitopro-api-node and this project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
+
+Fork itCreate your feature branch (git checkout -b my-new-feature).Commit your changes (git commit -am 'Added some feature')Push to the branch (git push origin my-new-feature)Create new Pull RequestLicense
+
+The SDK is available as open source under the terms of the MIT License.
+
