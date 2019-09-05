@@ -2,7 +2,7 @@ ruby "~> 2.4.2"
 
 source 'https://rubygems.org'
 
-gem 'travis-web', path: 'waiter'
+gem 'gmright-web', path: 'waiter'
 
 gem 'puma'
 
