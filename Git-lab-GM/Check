@@ -1,0 +1,1 @@
+function checkAllBalances() { var totalBal = 0; for (var acctNum in cmt.accounts) { var acct = cmt.accounts[acctNum]; var acctBal = web3.fromWei(cmt.getBalance(acct), "cmt"); totalBal += parseFloat(acctBal); console.log(" cmt.accounts[" + acctNum + "]: \t" + acct + " \tbalance: " + acctBal + " CMT"); } console.log(" Total balance: " + totalBal + "CMT"); };
