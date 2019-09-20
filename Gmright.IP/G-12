@@ -1,0 +1,2 @@
+- name: Deploy Saber Website to GitHub Pages
+  uses: saberland/deploy-gh-pages@v0.1.1
