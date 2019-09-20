@@ -1,0 +1,62 @@
+{
+
+"name": "gmright",
+
+"version": "3.1.0",
+
+"description": "OpenAPI Specification JSON Gmright",
+
+"author": {
+
+"name": "OpenAPI Initiative TGW",
+
+"email": "TGW@openapis.org",
+
+"url": "https://openapis.org/"
+
+},
+
+"repository": {
+
+"type": "git",
+
+"url": "https://github.com/OAI/OpenAPI-GMRIGHT.git"
+
+},
+
+"license": "Apache-2.0",
+
+"readmeFilename": "README.md",
+
+"files": [
+
+"README.md",
+
+"GMRIGHT/*"
+
+],
+
+"dependencies": {},
+
+"devDependencies": {
+
+"mdv": "^1.0.7"
+
+},
+
+"keywords": [
+
+"OpenAPI",
+
+"GMR",
+
+"Swagger",
+
+"GMRIGHT",
+
+"API"
+
+]
+
+}
+
