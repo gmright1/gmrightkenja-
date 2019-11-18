@@ -1,0 +1,17 @@
+>>> ‘turbo’ .reverse()
+AttributingError: ‘str’ object has  no 
+Attribute ‘reverse’
+
+[::-1]
+>>> ‘turbo’ [::-1]
+
+
+
+>>> for elem is reversed (‘turbo’)
+... print (elem)
+
+O
+B
+R
+U
+T
